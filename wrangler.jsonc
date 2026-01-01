@@ -1,0 +1,9 @@
+// Cloudflare Workers config (safe to commit)
+{
+  "name": "tmtco-sspr",
+  "main": "src/index.js",
+  "compatibility_date": "2025-12-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
